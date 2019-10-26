@@ -1,4 +1,4 @@
-# openhash
+# opencrypt
 ### Install
 clone this repo:
 ```sh
